@@ -6,8 +6,9 @@ Proxy Checker For All Platforms
 git clone https://github.com/ZawRib/Proxy-Checker-2024/tree/main
 ```
 ```
-cd
+cd Proxy-Checker-2024
 
+```
 
-python  -pl {proxylist file or link}
+python pr0xy_ch3ck3r.py -pl {proxylist file or link}
 ```
