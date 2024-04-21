@@ -1,5 +1,5 @@
 # Proxy-Checker-2024
-Proxy Checker For All Platforms
+Proxy Checker For All Platforms.Multi Thread Added.
 # Installation
 
 ```
