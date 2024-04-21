@@ -13,7 +13,7 @@ python pr0xy_ch3ck3r.py -pl {proxylist file or link}
 ```
 
 # Screenshot
-![Example Screen shot]()
+![Example Screen shot](Screenshot_1.jpg)
 
 
 ### Last modified date : 21.4.2024
