@@ -13,7 +13,15 @@ python pr0xy_ch3ck3r.py -pl {proxylist file or link}
 ```
 
 # Screenshot
-![Example Screen shot](Screenshot_1.jpg)
+
+## Checking Proxies With Link
+![Checking Proxies With Link](Screenshot_1.jpg)
+
+## Checking Proxies With File
+![Checking Proxies With File](Screenshot_2.jpg)
+
+## Final Result
+![Final Result](Screenshot_3.jpg)
 
 
 ### Last modified date : 21.4.2024
