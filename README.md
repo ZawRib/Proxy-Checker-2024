@@ -3,7 +3,7 @@ Proxy Checker For All Platforms.Multi Thread Added.
 # Installation
 
 ```
-git clone https://github.com/ZawRib/Proxy-Checker-2024/tree/main
+git clone https://github.com/ZawRib/Proxy-Checker-2024
 ```
 ```
 cd Proxy-Checker-2024
